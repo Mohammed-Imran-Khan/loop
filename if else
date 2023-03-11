@@ -1,0 +1,12 @@
+console.log("Welcome to Programiz!");
+var a=456;
+var b=54;
+var c= "ahdd";
+if(c=="add")
+{
+    console.log( a+ b);
+}
+else
+{
+    console.log( a - b);
+}
